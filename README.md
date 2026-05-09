@@ -1,9 +1,9 @@
-# Vue.js on Render
+# Vue.js on TroqCloud
 
 This is a minimal Vue.js project bootstrapped with [vue-cli](https://cli.vuejs.org/guide/creating-a-project.html).
 
-The sample app is deployed on Render at https://vue.onrender.com.
+The sample app is deployed on TroqCloud at https://vue.troqcloud.app.
 
 ## Deployment
 
-Follow the guide at https://render.com/docs/deploy-vue-js.
+Follow the guide at https://troqcloud.com/docs
